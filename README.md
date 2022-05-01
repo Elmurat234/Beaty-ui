@@ -4,9 +4,10 @@
 
 ## Installation 
 Beaty-ui is available as `npm package`.
-```ruby
+**To install** beaty-ui-library run this:
+```
 // with npm
-npm i beaty-ui
+npm i beaty-ui-library
 ```
 
 ## Usage
@@ -21,7 +22,7 @@ function App() {
 
 ReactDOM.render(<App />, document.querySelector('#app'));
 ```
-Yes, it's really all you need to get started as you can see in this live and interactive demo:
+_Yes, it's really all you need to get started_
 
 ## Documentation 
 
@@ -29,4 +30,4 @@ if you need more information about **Beaty-ui** here is the link
 
 ## Questions 
 
-if you have any questions i have [Telegram bot](t.me/BeatySupportBot) 
+if you have any questions I have Telegram bote here is the link [https://t.me/BeatySupportBot](https://t.me/BeatySupportBot)
